@@ -24,6 +24,7 @@ public class vendingMachine {
 				vendingMachineRunning();
 			}
 		}
+		int r = 0;
 
 	}
 	
